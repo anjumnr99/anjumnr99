@@ -8,7 +8,7 @@
 
 ## Technologies That I know
 
-[![My Skills](https://skillicons.dev/icons?i=react,c,cpp,css,eclipse,figma,firebase,html,java,js,mongodb,netlify,tailwind,vite,nodejs,express,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,c,cpp,css,eclipse,figma,firebase,html,java,js,mongodb,netlify,tailwind,vite,nodejs,express,vscode)](https://skillicons.dev)
 
 
 
