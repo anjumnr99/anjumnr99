@@ -44,7 +44,8 @@ As a frontend web developer proficient in HTML, CSS, and JavaScript, I specializ
    - The other features:
      - Story sharing.
      - A story can share in facebook.
-      - Make review.     
+      - Make review.    
+     
 
 
 
