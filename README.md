@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
  ![The git cover photo!](/images/git-cover.png)
 
